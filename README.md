@@ -23,3 +23,8 @@ Certain customer segments are more likely to churn
 Improve onboarding for new customers
 Provide discounts or offers for high-risk customers
 Focus on customer retention strategies
+
+<img width="1832" height="711" alt="image" src="https://github.com/user-attachments/assets/cb63e816-df81-4180-a6a3-6755997fac5b" />
+
+
+
